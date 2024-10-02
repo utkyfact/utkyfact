@@ -1,4 +1,4 @@
-<h2 align="left">Merhaba 👋! Benim adım Utku, Türkiye'den bir Web Geliştiricisiyim.</h2>
+<h2 align="left">Hello 👋! My name is Utku, I'm a Web developer from Turkey.</h2>
 
 ###
 
