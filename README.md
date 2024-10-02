@@ -12,7 +12,7 @@
 <hr>
 
 
-<h3 align="middle">My Skills.</h3>
+<h3 align="left">MY SKILLS</h3>
 <div align="middle">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
