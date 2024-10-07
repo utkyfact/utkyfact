@@ -69,3 +69,7 @@
 </div>
 
 <hr>
+
+<img src="https://raw.githubusercontent.com/utkyfact/utkyfact/output/snake.svg" alt="Snake animation" />
+
+###
