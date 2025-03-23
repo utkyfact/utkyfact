@@ -1,6 +1,5 @@
 <img align="middle" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="coding">
 <h2 align="middle">Hello 👋! My name is Utku, I'm a Software developer from Turkey.</h2>
-
 ###
 
 <div align="center">
