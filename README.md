@@ -1,6 +1,8 @@
 <img align="middle" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="coding">
 <h2 align="middle">Hello 👋! My name is Utku, I'm a Software developer from Turkey.</h2>
+
 ###
+
 <div align="center">
   <img align="middle" src="https://github-readme-stats.vercel.app/api?username=utkyfact&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkyfact&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
