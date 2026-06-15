@@ -24,51 +24,60 @@ class About:
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="PHP" />
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="Next.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="38" alt="Tailwind" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="38" alt="Vite" />
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="Express" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="38" alt="Flask" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="38" alt="Django" />
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="38" alt="SQLite" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="38" alt="Redis" />
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="38" alt="Nginx" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php" alt="languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" alt="backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" alt="databases" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git" alt="devops" />
 </p>
 
 ###
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-| Project | Stack | Live |
-|---|---|---|
-| **Bikuyum** ⭐ | React · Node · Express · PostgreSQL | [bikuyum.com](https://bikuyum.com/) |
-| **PaytoSkip** ⭐ | PHP · MySQL · JavaScript · Bootstrap | [paytoskip.com](https://paytoskip.com/) |
-| **Ebeceyy** | Next.js · TypeScript · Prisma · PostgreSQL | [ebeceyy.com](https://ebeceyy.com) |
-| **Soccaz** | React · Node · Express · PostgreSQL | [soccaz.de](https://soccaz.de) |
-| **utkusen.com.tr** | React · Vite · Express · SQLite · Docker | [utkusen.com.tr](https://utkusen.com.tr) |
+<div align="center">
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Stack</th>
+    <th>Live</th>
+  </tr>
+  <tr>
+    <td><b>Bikuyum</b> ⭐</td>
+    <td>React · Node · Express · PostgreSQL</td>
+    <td><a href="https://bikuyum.com/">bikuyum.com</a></td>
+  </tr>
+  <tr>
+    <td><b>PaytoSkip</b> ⭐</td>
+    <td>PHP · MySQL · JavaScript · Bootstrap</td>
+    <td><a href="https://paytoskip.com/">paytoskip.com</a></td>
+  </tr>
+  <tr>
+    <td><b>Ebeceyy</b></td>
+    <td>Next.js · TypeScript · Prisma · PostgreSQL</td>
+    <td><a href="https://ebeceyy.com">ebeceyy.com</a></td>
+  </tr>
+  <tr>
+    <td><b>Soccaz</b></td>
+    <td>React · Node · Express · PostgreSQL</td>
+    <td><a href="https://soccaz.de">soccaz.de</a></td>
+  </tr>
+  <tr>
+    <td><b>utkusen.com.tr</b></td>
+    <td>React · Vite · Express · SQLite · Docker</td>
+    <td><a href="https://utkusen.com.tr">utkusen.com.tr</a></td>
+  </tr>
+</table>
+
+</div>
 
 ###
 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkyfact&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utkyfact&show_icons=true&theme=dracula&hide_border=true" height="160" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkyfact&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="160" alt="top languages" />
 </div>
 
