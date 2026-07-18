@@ -53,6 +53,16 @@ class About:
     <td>PHP · MySQL · JavaScript · Bootstrap</td>
     <td><a href="https://paytoskip.com/">paytoskip.com</a></td>
   </tr>
+    <tr>
+    <td><b>TaksiTakip</b> ⭐</td>
+    <td>Next.js · TypeScript · Prisma · PostgreSQL · Tailwind</td>
+    <td><a href="https://taksitakip.com/">taksitakip.com</a></td>
+  </tr>
+    <tr>
+    <td><b>YuVet</b> ⭐</td>
+    <td>Next.js · TypeScript · Prisma · PostgreSQL · Tailwind</td>
+    <td><a href="https://yuvet.co.uk/">yuvet.co.uk</a></td>
+  </tr>
   <tr>
     <td><b>Ebeceyy</b></td>
     <td>Next.js · TypeScript · Prisma · PostgreSQL</td>
@@ -60,7 +70,7 @@ class About:
   </tr>
   <tr>
     <td><b>Soccaz</b></td>
-    <td>React · Node · Express · PostgreSQL</td>
+    <td>React · Node.js · Express · PostgreSQL</td>
     <td><a href="https://soccaz.de">soccaz.de</a></td>
   </tr>
   <tr>
