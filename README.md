@@ -59,12 +59,12 @@ class About:
     <td><a href="https://paytoskip.com/">paytoskip.com</a></td>
   </tr>
     <tr>
-    <td><b>TaksiTakip</b> ⭐</td>
+    <td><b>TaksiTakip</b></td>
     <td>Next.js · TypeScript · Prisma · PostgreSQL · Tailwind</td>
     <td><a href="https://taksitakip.com/">taksitakip.com</a></td>
   </tr>
     <tr>
-    <td><b>YuVet</b> ⭐</td>
+    <td><b>YuVet</b></td>
     <td>Next.js · TypeScript · Prisma · PostgreSQL · Tailwind</td>
     <td><a href="https://yuvet.co.uk/">yuvet.co.uk</a></td>
   </tr>
